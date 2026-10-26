@@ -1,0 +1,106 @@
+{
+ "dev": {
+  "A-then-B, unpaired z": {
+   "false_win_pct_mean": 0.7,
+   "false_win_pct_worst": 1.6,
+   "power_pct_mean": 5.3,
+   "power_pct_at_N120": [
+    1.9
+   ],
+   "trials_used_share": 1.0
+  },
+  "interleaved, unpaired z": {
+   "false_win_pct_mean": 1.6,
+   "false_win_pct_worst": 1.9,
+   "power_pct_mean": 15.8,
+   "power_pct_at_N120": [
+    24.1
+   ],
+   "trials_used_share": 1.0
+  },
+  "interleaved + same initial condition, exact": {
+   "false_win_pct_mean": 1.5,
+   "false_win_pct_worst": 1.7,
+   "power_pct_mean": 15.9,
+   "power_pct_at_N120": [
+    27.6
+   ],
+   "trials_used_share": 1.0
+  },
+  "paired, peek every 10 trials (z>=1.96)": {
+   "false_win_pct_mean": 7.7,
+   "false_win_pct_worst": 10.6,
+   "power_pct_mean": 31.0,
+   "power_pct_at_N120": [
+    48.1
+   ],
+   "trials_used_share": 0.86
+  },
+  "paired, 5 looks, O'Brien-Fleming": {
+   "false_win_pct_mean": 2.5,
+   "false_win_pct_worst": 2.6,
+   "power_pct_mean": 20.0,
+   "power_pct_at_N120": [
+    30.6
+   ],
+   "trials_used_share": 0.97
+  }
+ },
+ "held_out": {
+  "A-then-B, unpaired z": {
+   "false_win_pct_mean": 14.4,
+   "false_win_pct_worst": 35.7,
+   "power_pct_mean": 39.2,
+   "power_pct_at_N120": [
+    71.2,
+    68.1,
+    80.7
+   ],
+   "trials_used_share": 1.0
+  },
+  "interleaved, unpaired z": {
+   "false_win_pct_mean": 0.8,
+   "false_win_pct_worst": 1.3,
+   "power_pct_mean": 13.6,
+   "power_pct_at_N120": [
+    10.3,
+    10.2,
+    43.3
+   ],
+   "trials_used_share": 1.0
+  },
+  "interleaved + same initial condition, exact": {
+   "false_win_pct_mean": 1.4,
+   "false_win_pct_worst": 1.8,
+   "power_pct_mean": 15.6,
+   "power_pct_at_N120": [
+    18.3,
+    15.3,
+    43.5
+   ],
+   "trials_used_share": 1.0
+  },
+  "paired, peek every 10 trials (z>=1.96)": {
+   "false_win_pct_mean": 7.2,
+   "false_win_pct_worst": 10.6,
+   "power_pct_mean": 31.2,
+   "power_pct_at_N120": [
+    39.0,
+    34.5,
+    68.1
+   ],
+   "trials_used_share": 0.85
+  },
+  "paired, 5 looks, O'Brien-Fleming": {
+   "false_win_pct_mean": 2.4,
+   "false_win_pct_worst": 2.8,
+   "power_pct_mean": 20.6,
+   "power_pct_at_N120": [
+    22.3,
+    19.1,
+    51.3
+   ],
+   "trials_used_share": 0.97
+  }
+ }
+}

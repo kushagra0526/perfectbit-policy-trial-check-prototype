@@ -1,0 +1,7 @@
+N per policy | power % (paired exact, 10-point gain) at pA = 0.5, beta 2.0, a fixed total warm-up of 0.7 logit over the session, 5% bad resets
+          60 | 8
+         120 | 16
+         250 | 32
+         400 | 49
+         600 | 67
+         900 | 84
